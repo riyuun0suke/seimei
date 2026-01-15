@@ -1,6 +1,6 @@
 # seimei_social_app
 
-A new Flutter project.
+A new Flutter messenger. Working with farebase in real time. Chat with AI and posts!
 
 ## Getting Started
 
