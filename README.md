@@ -30,7 +30,7 @@ The onboarding process is simple and elegant, following the minimalist design la
 
 |              Login Screen              |                 Registration                 |
 | :------------------------------------: | :------------------------------------------: |
-| ![Login](assets/screenshots/login.png) | ![Register](assets/screenshots/register.png) |
+| ![Login](assets/screenshots/login.jpg) | ![Register](assets/screenshots/register.jpg) |
 
 ---
 
@@ -40,7 +40,7 @@ A structured user list and an intuitive sidebar for easy navigation between feat
 
 |             User Directory             |           Side Navigation            |            Personal Chat             |
 | :------------------------------------: | :----------------------------------: | :----------------------------------: |
-| ![Users](assets/screenshots/users.png) | ![Menu](assets/screenshots/menu.png) | ![Chat](assets/screenshots/chat.png) |
+| ![Users](assets/screenshots/users.jpg) | ![Menu](assets/screenshots/menu.jpg) | ![Chat](assets/screenshots/chat.jpg) |
 
 ---
 
@@ -50,7 +50,7 @@ The "Wall" allows users to interact through posts and comments, creating a mini-
 
 |            Community Wall            |                User Profile                |
 | :----------------------------------: | :----------------------------------------: |
-| ![Wall](assets/screenshots/wall.png) | ![Profile](assets/screenshots/profile.png) |
+| ![Wall](assets/screenshots/wall.jpg) | ![Profile](assets/screenshots/profile.jpg) |
 
 ---
 
