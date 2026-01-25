@@ -1,53 +1,87 @@
-# 📱 Seimei Social App | AI-Powered Messenger
+# SEIMEI Messenger 📱💬
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-**Seimei** is a modern social application built with Flutter that combines real-time messaging with Artificial Intelligence. Chat with friends, post updates, and interact with an integrated AI assistant.
+**SEIMEI** is a sleek, cross-platform messenger and social hub built with a focus on minimalist **Japanese-style aesthetics** and high performance. Seamlessly switch between private messaging and public interaction on the "Wall."
 
 ---
 
-## 🚀 Key Features
+## ✨ Features
 
-* **Real-time Chat:** Instant messaging powered by Firebase Cloud Firestore.
-* **AI Assistant:** Integrated AI chat support for smart conversations.
-* **Social Feed:** Create and share posts within the community.
-* **Secure Auth:** User authentication (Sign up/Login) via Firebase Auth.
-* **Clean UI:** Smooth transitions and a modern interface.
+- **Real-time Messaging:** Fast and reliable chat powered by Firebase.
+- **The Wall:** A community space to post ideas, like content, and leave comments.
+- **Japanese Minimalist Design:** A clean, dark-themed UI inspired by modern Japanese digital aesthetics (Seimei / 晴明).
+- **Cross-Platform:** Native performance on **Android, iOS, Windows, Linux, and Web (Chrome)**.
+- **Authentication:** Secure login and registration system.
 
+---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-* **Framework:** [Flutter](https://flutter.dev)
-* **Language:** Dart
-* **Backend:** Firebase (Firestore, Auth, Storage)
-* **AI Integration:** OpenAI API / Gemini API (depending on your implementation)
+- **Frontend:** [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/)
+- **Backend:** [Firebase](https://firebase.google.com/) (Firestore, Auth)
+- **Architecture:** Clean and responsive UI/UX
 
-## 🏗️ Architecture
+---
 
-This project follows a clean structure to ensure scalability:
-* `lib/models` - Data structures.
-* `lib/screens` - UI components and pages.
-* `lib/services` - Logic for Firebase and AI integration.
-* `lib/widgets` - Reusable UI elements.
+## 📸 Interface Preview
 
-## ⚙️ How to Run
+### 🔑 Getting Started
 
-1.  **Clone the repo:**
+The onboarding process is simple and elegant, following the minimalist design language.
+
+|              Login Screen              |                 Registration                 |
+| :------------------------------------: | :------------------------------------------: |
+| ![Login](assets/screenshots/login.png) | ![Register](assets/screenshots/register.png) |
+
+---
+
+### 💬 Communication & Navigation
+
+A structured user list and an intuitive sidebar for easy navigation between features.
+
+|             User Directory             |           Side Navigation            |            Personal Chat             |
+| :------------------------------------: | :----------------------------------: | :----------------------------------: |
+| ![Users](assets/screenshots/users.png) | ![Menu](assets/screenshots/menu.png) | ![Chat](assets/screenshots/chat.png) |
+
+---
+
+### 📝 Social Experience (The Wall)
+
+The "Wall" allows users to interact through posts and comments, creating a mini-social network inside the app.
+
+|            Community Wall            |                User Profile                |
+| :----------------------------------: | :----------------------------------------: |
+| ![Wall](assets/screenshots/wall.png) | ![Profile](assets/screenshots/profile.png) |
+
+---
+
+## 🚀 Installation & Setup
+
+1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/komi-source/seimei.git](https://github.com/komi-source/seimei.git)
+    git clone [https://github.com/your-username/seimei-messenger.git](https://github.com/your-username/seimei-messenger.git)
     ```
 2.  **Install dependencies:**
     ```bash
     flutter pub get
     ```
-3.  **Setup Firebase:**
-    * Add your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS).
-4.  **Launch:**
+3.  **Configure Firebase:**
+    - Create a new Firebase project.
+    - Add your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS).
+4.  **Run the app:**
     ```bash
     flutter run
     ```
 
 ---
-<p align="center">Developed with ❤️ for the future of social networking.</p>
+
+## 🌍 Platform Support
+
+The app is fully optimized for:
+
+- ✅ **Mobile:** Android & iOS
+- ✅ **Desktop:** Windows & Linux
+- ✅ **Web:** Optimized for Google Chrome
+
+---
+
+_Created by [Your Name/Handle]. SEIMEI — Simple, Elegant, Connected._
