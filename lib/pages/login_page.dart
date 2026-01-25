@@ -65,22 +65,10 @@ class _LoginPageState extends State<LoginPage> {
   Widget buildLoginForm() {
     return Stack(
       children: [
-        Positioned(
-          bottom: 0,
-          left: 0,
-          right: 0,
-          child: Image.asset(
-            'assets/wave.png',
-            fit: BoxFit.fitWidth,
-            width: MediaQuery.of(context).size.width,
-            alignment: Alignment.bottomCenter,
-          ),
-        ),
 
-        // 🌫️ Полупрозрачный слой (опционально, для читаемости)
+
         Positioned.fill(child: Container(color: Colors.black.withOpacity(0.3))),
 
-        // 📋 Контент логина поверх фона
         Center(
           child: SingleChildScrollView(
             child: Column(

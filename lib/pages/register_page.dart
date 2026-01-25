@@ -86,16 +86,7 @@ class _RegisterPageState extends State<RegisterPage> {
   Widget buildForm() {
     return Stack(
       children: [
-        Positioned(
-          bottom: 0,
-          left: 0,
-          right: 0,
-          child: Image.asset(
-            'assets/wave2.png',
-            fit: BoxFit.cover,
-            width: MediaQuery.of(context).size.width,
-          ),
-        ),
+
 
         Positioned.fill(
           child: Container(
