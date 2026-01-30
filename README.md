@@ -52,25 +52,6 @@ The "Wall" allows users to interact through posts and comments, creating a mini-
 | :----------------------------------: | :----------------------------------------: |
 | ![Wall](assets/screenshots/wall.jpg) | ![Profile](assets/screenshots/profile.jpg) |
 
----
-
-## 🚀 Installation & Setup
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/seimei-messenger.git](https://github.com/your-username/seimei-messenger.git)
-    ```
-2.  **Install dependencies:**
-    ```bash
-    flutter pub get
-    ```
-3.  **Configure Firebase:**
-    - Create a new Firebase project.
-    - Add your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS).
-4.  **Run the app:**
-    ```bash
-    flutter run
-    ```
 
 ---
 
