@@ -62,7 +62,3 @@ The app is fully optimized for:
 - ✅ **Mobile:** Android & iOS
 - ✅ **Desktop:** Windows & Linux
 - ✅ **Web:** Optimized for Google Chrome
-
----
-
-_Created by [Your Name/Handle]. SEIMEI — Simple, Elegant, Connected._
